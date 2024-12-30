@@ -12,7 +12,7 @@
 
  Download the WemodUnlocker.zip archive
  
- Unzip and run Wemod_Unlock.exe
+ Unzip and run Wemod_Unlocker.exe
  
  Run the original wemod 
  
